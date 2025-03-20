@@ -1,6 +1,6 @@
 #Script to write a 96 ascii character font bitmap to an I2C EEPROM chip
 
-#Author - @matneee (Martin Allen) 29 Apr 2017, matneee@willitwork.co.uk
+#Author - @matneee 29 Apr 2017
 
 #EEPROM used was a Microchip 24LC128, although it should work with others in the same range
 #May work with other I2C EEPROMS, but this is as yet untested
